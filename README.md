@@ -1,4 +1,4 @@
-### Hi there 👋
+### [Linkedin](https://www.linkedin.com/in/mateus-de-nardo-5671b9181/)
 
 <!--
 **mdnm/mdnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
