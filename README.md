@@ -1,3 +1,13 @@
+<p>
+Playing with IT since 2014.
+
+I'm passionate about creative activities and I understand that almost all the processes of developing software can be improved by being a creative person.
+
+I'm more comfortable with C# and JavaScript, but, as a developer with some years of experience I play with some other languages and technologies once in a while.
+
+Another pleasure of mine is to teach, something that I work with the mindset that anyone can be part of the IT community.
+</p>
+
 <p align="center">
   C# | SQL | JavaScript | Node.js | ReactJS | React Native
 </p>
