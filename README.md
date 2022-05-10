@@ -40,7 +40,7 @@ Traits:
     <img src="https://img.shields.io/badge/-Outlook-537AF1?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a
-    href="https://www.linkedin.com/in/mateus-de-nardo-5671b9181/" 
+    href="https://www.linkedin.com/in/mateusdnm/" 
     alt="LinkedIn"
     target="blank"
   >
