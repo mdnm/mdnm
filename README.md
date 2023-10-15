@@ -4,7 +4,7 @@ I bring value to products by understanding the domain problems and developing cr
 
 A glance at what I'm capable of:
 - **I optimized** a page with **10 thousand lines** of business logic code that created bug cards every day into a clean, predictable, and customizable piece of software that **stopped giving us headaches.**
-- **Saved tremendous amounts of money** by reducing the time of an execution of an AWS Lambda function that was called every day by 108% (about 30 minutes to 10 seconds) using better algorithms and data structures
+- **Saved tremendous amounts of money** by reducing the time of an execution of an AWS Lambda function that was called every day by 99.5% (about 30 minutes to 10 seconds) using better algorithms and data structures
 - **Decreased the time** of a human-made task that took an **entire working day to about 15 minutes** through a web scraper script and a data filtering script
 
 Skills:
