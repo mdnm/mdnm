@@ -3,20 +3,22 @@
 I bring value to products by understanding the domain problems and developing creative tech solutions.
 
 A glance at what I'm capable of:
-- **I optimized** a page with **10 thousand lines** of business logic code that created bug cards every day into a clean, predictable, and customizable piece of software that **stopped giving us headaches.**
-- **Saved tremendous amounts of money** by reducing the time of an execution of an AWS Lambda function that was called every day by 99.5% (about 30 minutes to 10 seconds) using better algorithms and data structures
-- **Decreased the time** of a human-made task that took an **entire working day to about 15 minutes** through a web scraper script and a data filtering script
+
+- Developed a secure, modular, and efficient content management web application for an online education platform with over 100,000 students. Resulted in a monthly time savings of 20 hours by automating manual processes.
+- Significantly cut costs by optimizing the execution time of a critical AWS Lambda function by 99.5%, reducing it from around 30 minutes to just 10 seconds. This improvement was achieved through the implementation of advanced algorithms and data structures.
+- Implemented a web scraper JavaScript script and data filtering Python script to automate a time-consuming human task, reducing the processing time from several hours to just 15 minutes. This facilitated efficient management of data for a Hackerrank contest through matching and selection processes.
 
 Skills:
-- Fullstack Software Development, 3 years of exp (React, NodeJS, TypeScript, .NET, SQL, MongoDB, TDD, DDD, SOLID, Docker, AWS, Git, Github, Troubleshooting) 
+- Fullstack Software Development, 5 years of exp (React, NodeJS, TypeScript, SQL, MongoDB, TDD, DDD, SOLID, Docker, AWS, Git, Github, Troubleshooting)
 - Leadership (Agile, SCRUM, Kanban, Code Review, Pair programming, Project management)
 - Teaching
 
-Traits: 
+Traits:
 - Adaptability
 - Empathy
 - Creativity
 - Patience
+- Intuition
 
 <p align="center">
   <a
